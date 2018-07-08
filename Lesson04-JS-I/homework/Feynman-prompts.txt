@@ -1,0 +1,17 @@
+Feynman Prompts
+
+Variables: something you want to store and use later
+
+Strings: pieces of text that you put in quotation marks; can be words or sentences or phrases
+
+Functions (arguments, `return`): 
+    some goal you want to accomplish with data that requires an argument (input) 
+    that gives you a return (output)
+
+`if` statements: 
+    setting up a conditional situation with rules so that 'if' something happens, that causes 
+    something else to follow
+
+Boolean values (`true`, `false`):
+    true = yes or 1
+    false = no or 0
