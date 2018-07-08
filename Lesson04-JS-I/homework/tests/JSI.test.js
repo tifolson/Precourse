@@ -206,21 +206,21 @@ describe('roundUp(num)', function() {
 describe('addExclamationPoint(str)', function() {
   it('should add an exclamation point to the end of the string', function() {
     expect(addExclamationPoint('hello world')).toBe('hello world!');
-    expect(addExclamationPoint('LambdaSchool')).toBe('LambdaSchool!');
+    expect(addExclamationPoint('hello world')).toBe('hello world!');
   });
 });
 
 describe('combineNames(firstName, lastName)', function() {
   it('should return the two strings combined into one with a space separating them', function() {
-    expect(combineNames('hello', 'world')).toBe('hello world');
+    expect(combineNames('Lambda', 'School')).toBe('Lambda School');
     expect(combineNames('Lambda', 'School')).toBe('Lambda School');
   });
 });
 
 describe('getGreeting(name)', function() {
   it('should return the string \'Hello {name}!\'', function() {
-    expect(getGreeting('Ben')).toBe('Hello Ben!');
-    expect(getGreeting('LambdaSchool')).toBe('Hello LambdaSchool!');
+    expect(getGreeting('Sam')).toBe('Hello Sam!');
+    expect(getGreeting('Sam')).toBe('Hello Sam!');
   });
 });
 
