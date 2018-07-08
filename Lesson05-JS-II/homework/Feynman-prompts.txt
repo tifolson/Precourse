@@ -1,0 +1,9 @@
+* `for`:
+    use to set up a loop where you can repeat the same thing over again 
+    that way you don't have to re-write the same instructions multiple times
+
+* `&&`, `||`, `!`
+    && : AND ---> means that both conditions must be met for something else to happen
+    || : OR ---> means that one condition or the other must be met for something else to happen
+    ! : NOT ---> means that something cannot happen in order for something else to happen
+
