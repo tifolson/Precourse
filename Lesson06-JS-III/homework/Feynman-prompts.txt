@@ -1,0 +1,4 @@
+Arrays: pieces of data that you store all together, kind of like a list. The pieces are separate but related
+    in some way. For example, you might have several appointments with different people. You can put all of 
+    the peoples' names into one list/line of code, rather than listing them all separately. This helps you to 
+    not repeat yourself.
