@@ -1,0 +1,16 @@
+* Objects: a bunch of pieces of data grouped within a single variable, all related to one topic but 
+    the relationships are a little vague; the data are not ordered (not a sequence) and it would help
+    to be able to label each piece of data 
+
+* Properties: the labels for each piece of data, also called keys
+
+* Methods: built-in functions within Javascript; there are libraries of methods that you
+    can apply to an object to get some other information; with objects you can create methods and include
+    them in the data structure 
+
+* for in loop: a way to work through the properties of an object; you set this up to do 
+    some repetitive task on all the elements involved
+
+* Dot notation vs bracket notation: these are 2 different ways to access the values within 
+    the object structure. Dot notation requires the object name, a dot, and the key name. Bracket 
+    notation requires that we use hard brackets surrounding the key name.
