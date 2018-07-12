@@ -1,0 +1,6 @@
+* `prototype`: this allows you to create and customize functions for use on multiple objects.
+    You set up a general method (function) with prototype and then you can access that function
+    as many times as you need to, rather than re-writing the method for every object you create.
+	
+* Constructors: these are also called classes, and they allow you to set up templates or
+    blueprints to handle multiple instances/copies.
